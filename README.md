@@ -1,6 +1,3 @@
-Here is a professional, detailed, and non-tabular README.md suggestion focusing on the methodology and high-level findings of your project.
-
-***
 
 # 🎓 JEE Dropout Risk Prediction
 
